@@ -1,0 +1,6 @@
+{
+  "workspaces": ["packages/*"],
+  "devDependencies": {
+    "sass": "^1.100.0"
+  }
+}
